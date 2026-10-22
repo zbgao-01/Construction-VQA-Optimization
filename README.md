@@ -19,3 +19,7 @@ The annotation refinement process includes three main aspects:
 ## 3. Data Availability
 
 The original dataset images are not redistributed. The availability of complete refined annotations is subject to the original dataset's licensing terms and any necessary permissions.
+
+Supplementary materials related to annotation refinement are available via Google Drive:
+
+[Google Drive – RTR-Align Annotation Materials](https://drive.google.com/drive/folders/1uVR_YzA5a1uNOgSw-bak5xhSl_BdOiUT)
